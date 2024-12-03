@@ -5,4 +5,13 @@ body{
   background-color: #86FF48;
 }
 
-.header{}
+.header{
+  text-align: center;
+  font-size: 50px;
+}
+
+hr{
+  background: black;
+  border: none;
+  height: 2px;
+}
